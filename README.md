@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel, 20 years old.
-- 👀 I’m interested in web development, game development (using Unity 3D) and in FPS games.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and also graduating in Coding (UNAMA), higher education.
-- 💞️ I’m looking to collaborate on developing new websites and cool stuff :D
+- 👀 I’m interested in web back-end development, using Java, Spring Framework and MongoDB.
+- 🌱 I’m currently learning back-end technologies.
 - 📫 How to reach me: Discord (heltonmiranda), Instagram (@daniel_pires3d) or gmail (heltonlay15@gmail.com).
 
 <!---
