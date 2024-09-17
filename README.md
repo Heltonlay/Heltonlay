@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Daniel, 20 years old.
-- 👀 I’m interested in web back-end development, using Java, Spring Framework and MongoDB.
-- 🌱 I’m currently learning back-end technologies.
-- 📫 How to reach me: Discord (heltonmiranda), Instagram (@daniel_pires3d) or gmail (heltonlay15@gmail.com).
+Hi, I'm Daniel and this is my github profile where you can find all my repositories. I'm in love with programming and IT topics. I study back-end technologies like Java, Spring, MySQL, MongoDB for work, and in the free time I study topics like Assembly x86 and computer architecture.
 
 <!---
 Heltonlay/Heltonlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
