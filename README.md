@@ -1,4 +1,7 @@
-Hi, I'm Daniel and this is my github profile where you can find all my repositories. I'm in love with programming and IT topics. I study back-end technologies like Java, Spring, MySQL, MongoDB for work, and in the free time I study topics like Assembly x86 and computer architecture.
+Hi, I'm Daniel. My stack is HTML + CSS + JS, with focus on technologies like React, Node and MariaDB.
+
+Website: https://portfolio-daniel.pages.dev/
+LinkedIn: https://www.linkedin.com/in/daniel-pires-94a52121b/
 
 <!---
 Heltonlay/Heltonlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
