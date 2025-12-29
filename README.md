@@ -1,4 +1,4 @@
-Hi, I'm Daniel. My stack is HTML + CSS + JS, with focus on technologies like React, Node and MariaDB.
+React | Node | MariaDB | ElectronJS
 
 Website: https://portfolio-daniel.pages.dev/<br>
 LinkedIn: https://www.linkedin.com/in/daniel-pires-94a52121b/
